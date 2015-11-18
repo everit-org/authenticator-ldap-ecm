@@ -185,9 +185,9 @@
 
     <!-- Jetty with Http Service -->
     <dependency>
-      <groupId>org.everit.osgi</groupId>
-      <artifactId>org.everit.osgi.jetty.boot</artifactId>
-      <version>1.0.2</version>
+      <groupId>org.everit.jetty</groupId>
+      <artifactId>org.everit.jetty.osgi.boot</artifactId>
+      <version>1.0.0</version>
     </dependency>
 
     <!-- Felix webconsole with dependencies -->
@@ -221,7 +221,7 @@
     <dependency>
       <groupId>org.everit.osgi</groupId>
       <artifactId>org.everit.osgi.ecm.component.ri</artifactId>
-      <version>2.0.0</version>
+      <version>2.0.1</version>
     </dependency>
     <dependency>
       <groupId>org.everit.osgi</groupId>
